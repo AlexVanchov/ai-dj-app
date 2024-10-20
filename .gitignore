@@ -1,0 +1,6 @@
+songs/
+venv/
+__pycache__/
+
+#ignore wav files
+*.wav
